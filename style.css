@@ -113,7 +113,7 @@ body {
 }
 
 .contador-digital-texto {
-    color: var(--verde)
+    color: var(--verde);
     font-size: 20px;
     margin: 0;
 }
