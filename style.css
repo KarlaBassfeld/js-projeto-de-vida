@@ -60,11 +60,6 @@ body {
     display: block;
 }
 
-.ativo {
-    background-color: var(--botao-ativo);
-    border-bottom: 4px solid var(--verde);
-}
-
 .abas-textos {
     background-color: var(--texto-fundo);
     padding: 40px;
@@ -112,6 +107,13 @@ body {
 .contador-digito-texto {
     color: var(--verde);
     font-size:20px;
+    margin: 0;
+}
+
+.situacão{
+    color: var(--verde)
+    font-size: 20px;
+    display: center;
     margin: 0;
 }
 
